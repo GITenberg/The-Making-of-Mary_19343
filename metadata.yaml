@@ -1,0 +1,35 @@
+_repo: The-Making-of-Mary_19343
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McIlwraith, Jean N. (Jean Newton)
+    aliases:
+    - Forsyth, Jean
+    - McIlwraith, J. N. (Jean Newton)
+    - McIlwraith, Jean Newton
+    - M'Ilwraith, J. N. (Jean Newton)
+    birthdate: 1859
+    deathdate: 1938
+    gutenberg_agent_id: '8605'
+    url: http://www.gutenberg.org/2009/agents/8605
+description: ''
+gutenberg_issued: '2006-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19343'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Orphans -- Fiction'
+- !lcsh 'Journalists -- Fiction'
+- !lcsh 'Theosophists -- Fiction'
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+title: The Making of Mary
+url: http://www.gutenberg.org/ebooks/19343
